@@ -1,0 +1,3 @@
+# Example for Render:
+# Create new web service from GitHub repo
+# Select Python, set start command to: gunicorn app:app

@@ -1,0 +1,9 @@
+resume-skill-extractor/
+├── client/                # React frontend
+│   ├── public/
+│   └── src/
+├── server/                # Python backend
+│   ├── app.py
+│   ├── extractor.py
+│   └── requirements.txt
+└── README.md

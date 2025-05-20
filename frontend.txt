@@ -1,0 +1,8 @@
+cd client
+npm install
+npm start
+
+
+---
+
+Would you like the full GitHub-ready code zip or deployment tutorial next?
